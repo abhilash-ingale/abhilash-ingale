@@ -1,8 +1,8 @@
 # *Profile Summary* 
 
-- Master's Student in Robotic Systems @ RWTH Aachen
+- *Master Student in Robotic Systems @ RWTH Aachen*
 
-- Interest areas : **Control System** & **Reinforcement Learning** 
+- *Interest areas : **Control System** & **Reinforcement Learning***
 
 #### *Toolchain*
 ![image](https://user-images.githubusercontent.com/37906939/145715556-c2b351ce-b25b-4026-935f-da70d389f20d.png)
