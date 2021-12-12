@@ -14,4 +14,4 @@
 <img src="https://gym.openai.com/assets/dist/home/footer/home-cta-d0fb5e0574.svg" height="30">
 
 #### *Current Status*
-Actively looking for part-time research opportunities in Controls/RL for robotic applciations.
+*Actively looking for part-time research opportunities in Controls/RL for robotic applciations.*
