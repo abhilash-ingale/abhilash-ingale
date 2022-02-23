@@ -15,4 +15,4 @@
 <img src="https://gym.openai.com/assets/dist/home/footer/home-cta-d0fb5e0574.svg" height="30">
 
 #### *Current Status*
-*Actively looking for Internship / Master Thesis / research opportunities in Controls/RL for robotic applciations.*
+*Actively looking for research opportunities in Controls/RL for robotic applciations.*
