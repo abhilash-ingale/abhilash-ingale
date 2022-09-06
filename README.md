@@ -20,5 +20,5 @@
 
 
 ## *Current Status* 
-Actively looking for applied research opportunities in Data-Driven Control and Reinforcement Learning.
+Starting at Synaptico GmbH as Robotics Intern in Oct,2022.
 
