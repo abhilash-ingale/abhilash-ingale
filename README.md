@@ -20,5 +20,5 @@
 
 
 ## *Current Status* 
-Starting at Synaptico GmbH as Robotics Intern in Oct,2022.
+Starting at Synapticon GmbH as Robotics Intern in Oct,2022.
 
