@@ -19,5 +19,5 @@
 
 
 ## *Current Status* 
-Working at Synapticon GmbH as Robotics Intern since Oct,2022.
+Employed full-time at Synapticon GmbH since July,2024.
 
