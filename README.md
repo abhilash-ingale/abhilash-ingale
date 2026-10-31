@@ -6,20 +6,20 @@
 
 🧪 I like taking a controller the whole way — from a transfer function on a whiteboard to a motor that actually turns.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhilash-ingale/).
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhilash-ingale-3169a5b5/).
 
 ---
 
 ## 🎯 Interest Areas
 
 🧠 **Model-Based & Learning-Based Controllers**
-> Classical model-based design at one end, data-driven and learned policies at the other — and the interesting ground in between, where a learned component still has to respect the limits of a real actuator.
+> Classical model-based design at one end, data-driven and learned policies at the other — and everything in between.
 
 🌐 **Multi-Physics Simulation**
-> Rigid-body dynamics, drivetrain and contact modelled together, so that what holds in simulation still holds once it meets hardware.
+> Rigid-body and Multi-body dynamics, FEM and deformable object manipulation.
 
 📡 **State Estimation & Sensor Fusion**
-> Combining complementary sensing into one consistent picture of what the robot is actually doing — the foundation every controller above it quietly depends on.
+> Combining complementary sensing into one consistent understanding for the robot.
 
 ---
 
