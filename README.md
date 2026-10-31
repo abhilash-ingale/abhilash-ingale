@@ -1,23 +1,28 @@
-# *Profile Summary* 
+## 🧭 Profile Summary
 
-- Master Student in Robotic Systems @ RWTH Aachen
+🤖 **Robotics Engineer** with a background in **data-driven identification and modelling methods for robotic actuators** — deriving models of real drivetrain behaviour from measured data, accurate enough to design and tune controllers against rather than just describe after the fact.
 
-- Interest areas : **Control Systems** & **Reinforcement Learning**
+🦾 Hands-on experience with **collaborative robots**, commissioning them across both **proprietary and open-source EtherCAT masters**, and interfacing the drive stack with **ROS 2**.
 
-## *Toolchain*
+🧪 I like taking a controller the whole way — from a transfer function on a whiteboard to a motor that actually turns.
 
-![image](https://user-images.githubusercontent.com/37906939/145715482-1def2c4d-cd27-4db4-9189-719e31eea43e.png)
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30">
-![image](https://user-images.githubusercontent.com/37906939/145715478-bf059eb2-5825-4d5d-8981-20550b524669.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30">
-![image](https://user-images.githubusercontent.com/37906939/145715556-c2b351ce-b25b-4026-935f-da70d389f20d.png)
-<img src="https://pydata.org/london2018/media/sponsor_files/Anaconda_stacked_RGB.png" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Gazebo_logo_without_text.svg/480px-Gazebo_logo_without_text.svg.png" height="30">
-<img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" height="30">
-<img src="https://user-images.githubusercontent.com/8070210/114549467-5793d900-9c61-11eb-88f2-24996a6c03e6.png" height="30">
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhilash-ingale/).
 
+---
 
-## *Current Status* 
-Employed full-time at Synapticon GmbH since July,2024.
+## 🎯 Interest Areas
 
+🧠 **Model-Based & Learning-Based Controllers**
+> Classical model-based design at one end, data-driven and learned policies at the other — and the interesting ground in between, where a learned component still has to respect the limits of a real actuator.
+
+🌐 **Multi-Physics Simulation**
+> Rigid-body dynamics, drivetrain and contact modelled together, so that what holds in simulation still holds once it meets hardware.
+
+📡 **State Estimation & Sensor Fusion**
+> Combining complementary sensing into one consistent picture of what the robot is actually doing — the foundation every controller above it quietly depends on.
+
+---
+
+## 💼 Current Status
+
+🏢 Employed full-time as **Solution Engineer** at **[Synapticon GmbH](https://www.synapticon.com/)** since **July 2024**.
